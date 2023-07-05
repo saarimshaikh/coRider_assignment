@@ -1,4 +1,4 @@
-# Corider User API
+# Assignment: Flask Application for CRUD operations on MongoDB
 A Flask user resource API.
 ## Setting up the API:
 
@@ -46,12 +46,12 @@ DELETE localhost:5000/users/<user_id>
 ![image](https://github.com/saarimshaikh/coRider_assignment/assets/65160026/ac95a5a6-73aa-4152-9b31-3a46a8600e24)
 
 ### GET by user id
-![Alt text](./images/image-3.png)
+![image-1](https://github.com/saarimshaikh/coRider_assignment/assets/65160026/c455e7b4-f483-4f17-8d85-504727c9fa02)
 ### POST
-![Alt text](./images/image.png)
+![image-2](https://github.com/saarimshaikh/coRider_assignment/assets/65160026/bd81b474-6ea8-4ea2-8ddf-07e005b0ceed)
 
 ### PUT
-![Alt text](./images/image-1.png)
+![image-3](https://github.com/saarimshaikh/coRider_assignment/assets/65160026/90b7a99c-b2af-47d9-bf67-1d6dde7923d0)
 
 ### DELETE
-![Alt text](image-4.png)
+![image-4](https://github.com/saarimshaikh/coRider_assignment/assets/65160026/3f81323d-3631-4e45-8f93-f3d3d4802f91)
