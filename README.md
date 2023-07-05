@@ -43,7 +43,7 @@ DELETE localhost:5000/users/<user_id>
 ## Postman Preview:
 
 ### GET
-![Alt text](./images/image-2.png)
+![image](https://github.com/saarimshaikh/coRider_assignment/assets/65160026/ac95a5a6-73aa-4152-9b31-3a46a8600e24)
 
 ### GET by user id
 ![Alt text](./images/image-3.png)
